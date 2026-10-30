@@ -33,3 +33,8 @@ Here are the hardware/components I am using in my project:
 Today, I setted up the git repo for this project. So far, I have made a tinkerCAD sketch for a rough idea of my project so far. Below is an image of what I have done so far, nothing too complex.
 <br>
 <img width="369" height="307" alt="image" src="https://github.com/user-attachments/assets/ae23ae99-a62c-48aa-a50f-18ae19fa3fd7" />
+
+After completing hte above diageam, I then replicated it using my components and the code!
+
+
+I've completed the big chunk fo this project already. My goal for the next entry is creating the actualy boy using cardboard!
