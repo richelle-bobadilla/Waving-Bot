@@ -32,7 +32,7 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);
   distance = duration * 0.034 / 2;
 
-  if (distance <= 60 && distance >= 20) {
+  if (distance <= 30 && distance >= 10) {
     myServo.write(120);
     delay(1000);
     myServo.write(startingPos);
