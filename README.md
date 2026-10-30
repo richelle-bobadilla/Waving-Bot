@@ -31,12 +31,12 @@ Here are the hardware/components I am using in my project:
 ### Entry 1: Planning project
 📅 **Date:** Oct 29, 2026
 Today, I setted up the git repo for this project. So far, I have made a tinkerCAD sketch for a rough idea of my project so far. Below is an image of what I have done so far, nothing too complex.
-<br>
+<br><br>
 <img width="369" height="307" alt="tinkerCAD sketch" src="https://github.com/user-attachments/assets/ae23ae99-a62c-48aa-a50f-18ae19fa3fd7" />
 
 After completing hte above diageam, I then replicated it using my components and the code!
 
-<img width="4080" height="3060" alt="real life wirinng" src="https://github.com/user-attachments/assets/82de6469-989c-47c9-9aa2-064a67aa0554" />
+<img width="50%" height= "auto" alt="real life wirinng" src="https://github.com/user-attachments/assets/82de6469-989c-47c9-9aa2-064a67aa0554" />
 
 
 I've completed the big chunk fo this project already. My goal for the next entry is creating the actualy boy using cardboard!
