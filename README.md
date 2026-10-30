@@ -39,4 +39,4 @@ After completing hte above diageam, I then replicated it using my components and
 <img width="50%" height= "auto" alt="real life wirinng" src="https://github.com/user-attachments/assets/82de6469-989c-47c9-9aa2-064a67aa0554" />
 
 
-I've completed the big chunk fo this project already. My goal for the next entry is creating the actualy boy using cardboard!
+I've completed the big chunk fo this project already. My goal for the next entry is to add the LED and push-button for this project!
