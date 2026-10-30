@@ -27,7 +27,6 @@ Here are the hardware/components I am using in my project:
 <br>
 
 ## 📓 Journal Entries
-<br>
 
 ### Entry 1: Planning project
 📅 **Date:** Oct 29, 2026
